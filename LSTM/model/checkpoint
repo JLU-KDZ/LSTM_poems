@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:\\Users\\Dezeng Kong\\Desktop\\1\\pomes_lstm-master\\model\\poems-10"
+all_model_checkpoint_paths: "C:\\Users\\Dezeng Kong\\Desktop\\1\\pomes_lstm-master\\model\\poems-0"
+all_model_checkpoint_paths: "C:\\Users\\Dezeng Kong\\Desktop\\1\\pomes_lstm-master\\model\\poems-10"
